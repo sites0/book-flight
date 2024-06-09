@@ -134,3 +134,12 @@
         width: 600px;
        }
 }
+@media (min-width: 1000px) {
+  .booking-card {
+      width: 500px;
+      height: 600px
+     }
+     .nav-bar{
+      width: 1230px;
+     }
+}
